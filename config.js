@@ -1,23 +1,23 @@
-global.owner = ['6281395861695']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
-global.nameowner = 'Tio'
-global.numberowner = '6281395861695' 
-global.mail = 'support@tioprm.my.id' 
-global.gc = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
-global.wait = '_*Tunggu sedang di proses...*_'
-global.eror = '_*Server Error*_'
-global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
-global.packname = 'Made With'
-global.author = 'Bot WhatsApp'
+global.owner = ['79619201711,905510718257,905417885432,905313299422']  
+global.mods = ['905510718257'] 
+global.prems = ['905510718257']
+global.nameowner = 'MSD'
+global.numberowner = '79619201711' 
+global.mail = 'msd@msd.my.id' 
+global.gc = '/'
+global.instagram = '/'
+global.wm = '© MSD'
+global.wait = '_*Devam ediyor...*_'
+global.eror = '_*Sunucu Hatası*_'
+global.stiker_wait = '*⫹⫺ Çıkartma Yapılıyor...*'
+global.packname = 'İle yapılan'
+global.author = 'MSD'
 
 //INI WAJIB DI ISI!//
-global.btc = 'YOUR_APIKEY_HERE' 
+global.btc = 'Hfmxlnug' 
 //Daftar terlebih dahulu https://api.botcahx.live
 
-global.lann = 'YOUR_APIKEY_HERE'
+global.lann = 'ELN4GgGh'
 //Daftar terlebih dahulu https://api.betabotz.org 
 
 global.APIs = {   
